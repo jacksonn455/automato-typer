@@ -11,6 +11,6 @@ Jogo para matéria de Linguagens formais
   | :---: |
 
 --------------------
- ![](https://github.com/jacksonn455/jQuery/blob/master/public/img/im1.png)
+ ![](https://github.com/jacksonn455/automato-typer/blob/master/img/im2.png)
 --------------------
- ![](https://github.com/jacksonn455/jQuery/blob/master/public/img/im2.png)
+ ![](https://github.com/jacksonn455/automato-typer/blob/master/img/im1.png)
