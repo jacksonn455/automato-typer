@@ -2,7 +2,7 @@ Jogo para matéria de Linguagens formais
 ===============================================
 
 - Jogo criado para utilizar o Analizador Lexico
-- Acesso em:
+- Acesso em: https://jacksonn455.github.io/automato-typer/
 
 --------------------
 ## Autor
